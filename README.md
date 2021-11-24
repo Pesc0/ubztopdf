@@ -1,8 +1,8 @@
-# ubz2pdf
+# ubztopdf
 Convert OpenBoard .ubz files to pdf
 
 ## Dependencies
 ```pip3 install svglib reportlab```
 
 ## Usage
-```./ubz2pdf.py file.ubz```
+```./ubztopdf.py file1.ubz file2.ubz *.ubz```
